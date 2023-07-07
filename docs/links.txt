@@ -13,4 +13,7 @@ https://tfhub.dev/s
 
 https://coral.ai/docs/accelerator/get-started/
 
+https://github.com/google-coral/libedgetpu.git
+
+
 
