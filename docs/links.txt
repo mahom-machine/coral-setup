@@ -20,3 +20,9 @@ git clone --recurse-submodules https://github.com/google-coral/pycoral
 cd pycoral/
 git submodule init && git submodule update
 
+
+python3 examples/classify_image.py --model test_data/mobilenet_v2_1.0_224_inat_bird_quant_edgetpu.tflite --labels test_data/inat_bird_labels.txt --input ./ara-macao-scarlet-macaw-petr-simon.jpg && true
+
+
+https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units
+
